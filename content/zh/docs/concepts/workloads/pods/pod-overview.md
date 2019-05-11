@@ -4,6 +4,9 @@ reviewers:
 title: Pod 概览
 content_template: templates/concept
 weight: 10
+card:
+  name: concepts
+  weight: 60
 ---
 
 <!--

@@ -1,10 +1,10 @@
 ---
 title: 理解 Kubernetes 对象
-
-redirect_from:
-- "/docs/concepts/abstractions/overview/"
-- "/docs/concepts/abstractions/overview.html"
 content_template: templates/concept
+weight: 10
+card:
+  name: concepts
+  weight: 40
 ---
 
 {{% capture overview %}}

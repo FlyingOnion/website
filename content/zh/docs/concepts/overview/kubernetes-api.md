@@ -1,3 +1,12 @@
+---
+title: Kubernetes API
+content_template: templates/concept
+weight: 30
+card:
+  name: concepts
+  weight: 30
+---
+
 # Kubernetes API 概述
 
 [API协议文档](https://git.k8s.io/community/contributors/devel/api-conventions.md)描述了主系统和API概念。
