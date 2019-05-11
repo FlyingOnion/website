@@ -58,40 +58,40 @@ overview: >
   description: This website contains documentation for the current and previous 4 versions of Kubernetes. -->
 
 cards:
-- name: 概念
+- name: concepts
   title: "了解基本"
   description: "了解 Kubernetes 和其基础概念。"
   button: "了解概念"
   button_path: "/zh/docs/concepts"
-- name: 教程
+- name: tutorials
   title: "尝试"
   description: "按照教程学习如何在 Kubernetes 上部署应用。"
   button: "查看教程"
   button_path: "/zh/docs/tutorials"
-- name: 设置
+- name: setup
   title: "设置集群"
   description: "按照你的资源情况和需求运行 Kubernetes。"
   button: "设置 Kubernetes"
   button_path: "/zh/docs/setup"
-- name: 任务
+- name: tasks
   title: "了解如何使用 Kubernetes"
   description: "查看常见任务以及如何使用简单步骤执行它们。"
   button: "查看任务"
   button_path: "/zh/docs/tasks"
-- name: 引用
+- name: reference
   title: 引用信息
   description: 术语、命令行语法、API 资源类型和设置工具文档
   button: 查看引用
   button_path: /zh/docs/reference
-- name: 贡献
+- name: contribute
   title: 为该文档作出贡献
   description: 任何人，无论对该项目熟悉与否，都能贡献自己的力量。
   button: 开始
   button_path: /zh/docs/contribute
-- name: 下载
+- name: download
   title: 下载 Kubernetes
   description: 如果你正在安装或升级 Kubernetes，最好参考最新的发行版说明。
-- name: 关于
+- name: about
   title: 关于文档
   description: 该网站包含了当前版本以及前 4 个版本的 Kubernetes 文档。
 ---
