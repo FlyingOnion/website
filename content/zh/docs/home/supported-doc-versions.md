@@ -1,6 +1,10 @@
 ---
 title: Kubernetes 文档支持的版本
 content_template: templates/concept
+card:
+  name: about
+  weight: 10
+  title: 该文档支持的版本
 ---
 
 {{% capture overview %}}

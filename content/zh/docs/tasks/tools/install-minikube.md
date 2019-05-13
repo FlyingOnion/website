@@ -2,6 +2,9 @@
 title: 安装 Minikube
 content_template: templates/task
 weight: 20
+card:
+  name: tasks
+  weight: 10
 ---
 
 <!--

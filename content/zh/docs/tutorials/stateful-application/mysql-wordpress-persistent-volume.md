@@ -3,6 +3,10 @@ title: "基于 Persistent Volumes 搭建 WordPress 和 MySQL 应用"
 approvers:
 - ahmetb
 - jeffmendoza
+card: 
+  name: tutorials
+  weight: 40
+  title: "有状态应用示例: Wordpress with Persistent Volumes"
 ---
 
 

@@ -3,9 +3,12 @@ reviewers:
 - bryk
 - mikedanese
 - rf232
-title: Web UI (Dashboard)
+title: Web UI Dashboard
 content_template: templates/concept
 weight: 10
+card:
+  name: tasks
+  weight: 30
 ---
 
 {{% capture overview %}}

@@ -1,5 +1,8 @@
 ---
 title: 从源代码构建
+card:
+  name: download
+  weight: 20
 ---
 
 <!--

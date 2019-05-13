@@ -5,6 +5,10 @@ approvers:
 - chenopis
 - zacharysarah
 - zparnold
+card:
+  name: contribute
+  weight: 40
+  title: 开始翻译工作
 ---
 
 <!--

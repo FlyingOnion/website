@@ -5,6 +5,9 @@ reviewers:
 title: 安装并设置 kubectl
 content_template: templates/task
 weight: 10
+card:
+  name: tasks
+  weight: 20
 ---
 <!--
 ---

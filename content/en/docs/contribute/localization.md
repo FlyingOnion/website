@@ -7,7 +7,7 @@ approvers:
 - zparnold
 card:
   name: contribute
-  weight: 30
+  weight: 40
   title: Translating the docs
 ---
 

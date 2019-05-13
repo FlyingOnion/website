@@ -1,5 +1,5 @@
 ---
-title: Participating in SIG Docs
+title: 参与贡献 Special Interest Groups 文档
 content_template: templates/concept
 card:
   name: contribute

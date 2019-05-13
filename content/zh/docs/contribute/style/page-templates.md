@@ -2,6 +2,9 @@
 title: 使用页面模板
 content_template: templates/concept
 weight: 30
+card:
+  name: contribute
+  weight: 30
 ---
 
 <!--

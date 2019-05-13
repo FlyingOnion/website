@@ -2,6 +2,10 @@
 title: 安装 kubeadm
 content_template: templates/task
 weight: 20
+card:
+  name: setup
+  weight: 20
+  title: 安装 kubeadm 工具
 ---
 <!-- 
 ---

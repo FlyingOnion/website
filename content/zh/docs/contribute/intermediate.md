@@ -1,5 +1,5 @@
 ---
-title: Intermediate contributing
+title: 更进一步
 slug: intermediate
 content_template: templates/concept
 weight: 20

@@ -1,6 +1,9 @@
 ---
 title: 配置对多集群的访问
 content_template: templates/task
+card:
+  name: tasks
+  weight: 40
 ---
 
 
